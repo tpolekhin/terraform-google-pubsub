@@ -7,6 +7,14 @@ The format is based on
 and this project adheres to
 [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.6.0](https://www.github.com/terraform-google-modules/terraform-google-pubsub/compare/v1.5.0...v1.6.0) (2020-11-12)
+
+
+### Features
+
+* Add token creator binding for service account ([#37](https://www.github.com/terraform-google-modules/terraform-google-pubsub/issues/37)) ([112607c](https://www.github.com/terraform-google-modules/terraform-google-pubsub/commit/112607cc503d9d884fe66c85d9fc6143ed84ceb5))
+* Adding support for retry_policy.maximum_backoff and retry_policy.minimum_backoff ([#40](https://www.github.com/terraform-google-modules/terraform-google-pubsub/issues/40)) ([4972a25](https://www.github.com/terraform-google-modules/terraform-google-pubsub/commit/4972a25046ba554e622ca27bb735572d31397814))
+
 ## [1.5.0](https://www.github.com/terraform-google-modules/terraform-google-pubsub/compare/v1.4.0...v1.5.0) (2020-09-21)
 
 
